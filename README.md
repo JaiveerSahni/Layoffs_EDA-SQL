@@ -42,9 +42,9 @@ Portfolio-Project-EDA.sql: All SQL queries and analysis steps
 - The world_layoffs.layoffs_staging2 table loaded with the dataset
 
 ### 2.Running the analysis
--Open and execute the queries in Portfolio-Project-EDA.sql step by step in your SQL editor or IDE.
--Review the results of each query to follow the exploration or copy/paste manually into your SQL console.
--Each section includes comments explaining the purpose of the queries and what to look for.
+- Open and execute the queries in Portfolio-Project-EDA.sql step by step in your SQL editor or IDE.
+- Review the results of each query to follow the exploration or copy/paste manually into your SQL console.
+- Each section includes comments explaining the purpose of the queries and what to look for.
 
 ## Key Analysis Sections
 - Simple Aggregates: Maximum layoffs, minimum/maximum percentage layoffs, companies with total shutdown
